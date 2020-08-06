@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13e820e3-51c3-4a62-8ca3-797248b5dfad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/README.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/images/basic-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/images/basic-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/java/com/greglturnquist/payroll/DatabaseLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/java/com/greglturnquist/payroll/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/java/com/greglturnquist/payroll/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/java/com/greglturnquist/payroll/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/java/com/greglturnquist/payroll/ReactAndSpringDataRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/js/api/uriListConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/js/api/uriTemplateInterceptor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/js/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/payroll/DatabaseLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/payroll/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/payroll/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/payroll/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springpractice/payroll/ReactAndSpringDataRestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.css.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tut-react-and-spring-data-rest-master/basic/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/springpractice/payroll/ReactAndSpringDataRestApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fkBmucapnzeIiUc5ZykFOO9K6p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13e820e3-51c3-4a62-8ca3-797248b5dfad" name="Default Changelist" comment="" />
+      <created>1596752374345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596752374345</updated>
+    </task>
+    <servers />
+  </component>
+</project>
